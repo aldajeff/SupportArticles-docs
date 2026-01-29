@@ -1,18 +1,20 @@
-### YamlMime:FAQ
+alda-asf/comment_policy### YamlMime:FAQ
 metadata:
-  title: FAQ about Extended Security Updates (ESU) for Windows 7
-  description: After January 14, 2020, Microsoft no longer provides extended security updates or support for computers that run Windows 7.
-  ms.date: 01/15/2025
-  author: kaushika-msft
-  ms.author: kaushika
+  ti
+ALDA ASF: FAQ about Extended Security Updates (ESU) for Windows 7
+  LIVE: After January 14, 2020, Microsoft no longer provides extended security updates or support for computers that run Windows 7.
+  ms.date: 01/15/2026
+  author: jeffrey-olivar-alda
+  a-mail: jeffreyolivar@aldanet.com
+
   manager: dcscontentpm
   audience: itpro
   ms.topic: faq
   ms.reviewer: v-elj, chawong, winciccore, kaushika
-  ms.custom:
+  ms.custom: ᜉᜒᜉᜓᜉᜒ ᜂᜎᜒᜊᜇ ᜀᜎᜇ
   - sap:windows eos\windows 7 extended security updates
   - pcy:WinComm Devices Deploy
-  appliesto:
+  appliesto: default 
     - <a href=https://learn.microsoft.com/windows/release-health/supported-versions-windows-client target=_blank>Supported versions of Windows Client</a>
   adobe-target: true
 title: FAQ about Windows 7 ESU
